@@ -1,0 +1,9 @@
+pillow==9.0.0
+flask
+flask-bootstrap
+bokeh
+netifaces
+pandas
+numpy
+bacpypes
+BAC0
