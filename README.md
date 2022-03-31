@@ -10,6 +10,10 @@ python3 -m pip install -r requirements.txt
 
 ## Example use and output
 
+```
+python3 -m jupyterlab
+```
+
 ```python
 import BAC0
 from pprint import pprint
