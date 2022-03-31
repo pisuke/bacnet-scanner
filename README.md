@@ -2,6 +2,12 @@
 
 A Jupyter Notebook using the BAC0 library for BACnet scanning tests.
 
+## Pre-requisites installation
+
+```
+python3 -m pip install -r requirements.txt
+```
+
 ## Example use and output
 
 ```python
